@@ -9,7 +9,7 @@ This analysis was to determine the number of empolyees that would be retiring ca
 - There are around 1500 eligibility for a mentorship program
 - Over 130,000 employees are approaching retirement for Pewlett Hackard
 
-![](data/retiring_count.png)
+![](data/title_count.png)
 ## Summary
 
 There will be over 130,000 roles to be filled once the "silver tsunami". This is a significant amount of postions that will need to be filled once all the baby boomers begin to retire. There are more than enough qualified retirement ready employess in each department to participate in the mentorship program. This would ease the transistion internally but there will still be a significant shortage of employees especially within the senior positions. 
